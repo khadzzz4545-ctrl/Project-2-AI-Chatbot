@@ -98,23 +98,7 @@ AI: Goodbye! Have a great day!
 
 ---
 
-## 📷 Demo
 
-Add a screenshot of your chatbot here.
-
-Example:
-
-```
-images/demo.png
-```
-
-Then replace this section with:
-
-```markdown
-## 📷 Demo
-
-![AI Chatbot Demo](images/demo.png)
-```
 
 ---
 
