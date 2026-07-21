@@ -91,23 +91,6 @@ Goodbye! Have a great day!
 
 ---
 
-## 📷 Demo
-
-(Add a screenshot of your chatbot here later.)
-
-Example:
-
-```
-images/demo.png
-```
-
-Then update this section to:
-
-```markdown
-## 📷 Demo
-
-![Chatbot Demo](images/demo.png)
-```
 
 ---
 
